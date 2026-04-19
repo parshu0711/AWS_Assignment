@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZenFocus - Pomodoro Timer</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-animation"></div>
+    <div class="container">
+        <header>
+            <h1>ZenFocus</h1>
+            <p>Master your time, beautifully.</p>
+        </header>
+
+        <main class="timer-card glassmorphism">
+            <div class="modes">
+                <button class="mode-btn active" data-mode="pomodoro">Pomodoro</button>
+                <button class="mode-btn" data-mode="shortBreak">Short Break</button>
+                <button class="mode-btn" data-mode="longBreak">Long Break</button>
+            </div>
+
+            <div class="time-display">
+                <span id="minutes">25</span><span class="colon">:</span><span id="seconds">00</span>
+            </div>
+
+            <div class="controls">
+                <button id="startBtn" class="control-btn primary">Start</button>
+                <button id="pauseBtn" class="control-btn secondary" disabled>Pause</button>
+                <button id="resetBtn" class="control-btn secondary">Reset</button>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Made with ❤️ to help you focus.</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
