@@ -17,15 +17,14 @@
 ## 2. IAM Users:
 ![IAM Users](./Screenshot%202026-04-19%20231916.png)
 
-### 2. User 1 - No Permissions
+### A. User 1 - No Permissions
 *Screenshot showing login as **User 1**, resulting in "Access Denied" when attempting to view the EC2 dashboard:*
 ![User 1 Login](./Screenshot%202026-04-19%20230732.png)
 
-### 3. User 2 - EC2 Full Access
+### B. User 2 - EC2 Full Access
 *Screenshots showing login as **User 2**, successfully viewing the EC2 instances:*
 ![User 2 Login 1](./Screenshot%202026-04-19%20231639.png)
 
-![User 2 Login 2](./Screenshot%202026-04-19%20231650.png)
 
 ---
 
