@@ -11,7 +11,10 @@
 ### 1. EC2 Instance (AWS Console)
 *Screenshots showing the running EC2 instance with the admin username visible:*
 ![EC2 Instance 1](./Screenshot%202026-04-19%20224540.png)
+
 ![EC2 Instance 2](./Screenshot%202026-04-19%20224604.png)
+
+## 2. IAM Users:
 ![IAM Users](./Screenshot%202026-04-19%20231916.png)
 
 ### 2. User 1 - No Permissions
@@ -21,6 +24,7 @@
 ### 3. User 2 - EC2 Full Access
 *Screenshots showing login as **User 2**, successfully viewing the EC2 instances:*
 ![User 2 Login 1](./Screenshot%202026-04-19%20231639.png)
+
 ![User 2 Login 2](./Screenshot%202026-04-19%20231650.png)
 
 ---
