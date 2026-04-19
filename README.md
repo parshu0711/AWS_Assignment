@@ -9,16 +9,19 @@
 ## 📸 Assignment Screenshots
 
 ### 1. EC2 Instance (AWS Console)
-*Screenshot showing the running EC2 instance with the admin username visible:*
-![EC2 Instance](./ec2-running.png)
+*Screenshots showing the running EC2 instance with the admin username visible:*
+![EC2 Instance 1](./Screenshot%202026-04-19%20224540.png)
+![EC2 Instance 2](./Screenshot%202026-04-19%20224604.png)
+![IAM Users](./Screenshot%202026-04-19%20231916.png)
 
 ### 2. User 1 - No Permissions
 *Screenshot showing login as **User 1**, resulting in "Access Denied" when attempting to view the EC2 dashboard:*
-![User 1 Login](./user1-no-permissions.png)
+![User 1 Login](./Screenshot%202026-04-19%20230732.png)
 
 ### 3. User 2 - EC2 Full Access
-*Screenshot showing login as **User 2**, successfully viewing the EC2 instances:*
-![User 2 Login](./user2-ec2-access.png)
+*Screenshots showing login as **User 2**, successfully viewing the EC2 instances:*
+![User 2 Login 1](./Screenshot%202026-04-19%20231639.png)
+![User 2 Login 2](./Screenshot%202026-04-19%20231650.png)
 
 ---
 
