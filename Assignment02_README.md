@@ -20,7 +20,7 @@
 
 ### 2. Versioning View
 
-![Versioning View](./c:\Users\prash\OneDrive\Pictures\Screenshots\Screenshot 2026-04-26 001131.png)
+![Versioning View](./Screenshot 2026-04-26 001131.png)
 
 ### 3. Lifecycle Rule Configuration
 *Screenshot showing the configured lifecycle rules (e.g., transition to cheaper storage, delete old versions):*
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧗 Challenges and Issues Faced
+##  Challenges and Issues Faced
 - **Bucket Naming:** Finding a globally unique name.
 - **Bucket Policies & Public Access:** Properly configuring Block Public Access settings and the Bucket Policy.
 - **Versioning Management:** Understanding how to toggle the versioning view.
